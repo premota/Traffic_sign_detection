@@ -1,0 +1,9 @@
+path:'/content/drive/MyDrive/Traffic_sign detection/data'
+train:Images
+val:Images
+
+#classes
+names: ["prohibitory",
+"danger",
+"mandatory",
+"other"]
